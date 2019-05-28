@@ -1,0 +1,5 @@
+/credentials*.mk
+!/credentials.sample.mk
+
+# MkDocs
+/site/

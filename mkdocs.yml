@@ -1,0 +1,5 @@
+site_name: Docker Image for Hexo
+site_url: https://imsardine.github.io/docker-hexo/
+repo_url: https://github.com/imsardine/docker-hexo
+repo_name: imsardine/docker-hexo
+theme: material
